@@ -1,25 +1,15 @@
-# Hi, I'm Cayden 👋
+# Hi, I’m Cayden
 
-Solo founder building **Roadsmith** — white-label booking and operations software for driving schools. Based in East Tennessee, heading to Florida.
+I’m a student and solo builder based in East Tennessee. I’m building **[Roadsmith](https://github.com/zaxpointx/roadsmith-public)**, a software project for small driving schools.
 
-## What I'm working on
+Roadsmith helps organize parent inquiries, instructor availability, travel time, payments, reminders, and lesson follow-up in one workflow. I’m especially interested in how software can help people make better decisions without hiding important judgment behind automation.
 
-- **[roadsmith](https://github.com/ZaxPointZ/roadsmith)** — SaaS for driving schools. Time + location + travel scheduling. No competitor handles all three.
-- **[mission-control](https://github.com/ZaxPointZ/mission-control)** + **[dashboard](https://github.com/ZaxPointZ/mission-control-dashboard)** — internal ops server + UI for the Roadsmith fleet of agents.
+## Current project
 
-## Stack I work in
+- **[Roadsmith](https://github.com/zaxpointx/roadsmith-public)** — a pre-release driving-school operations platform with a synthetic operator-review demo.
 
-Next.js · React · TypeScript · Tailwind · Supabase · Stripe · Resend · Python · SQLite
+## What I’m learning
 
-## How I work
+React, Next.js, TypeScript, databases, testing, and how to turn a real-world problem into something people can actually use.
 
-- Read the project's `AGENTS.md` before touching anything.
-- One task, one commit, one PR.
-- Prefer boring tech that ships.
-- Write down decisions in `docs/`, not in chat.
-
-## Currently learning
-
-Full Stack Open (Helsinki) — React, Node, GraphQL, TypeScript end-to-end.
-
-📫 cayden@roadsmith.io
+I’m still learning, but I care about understanding what I build and being honest about what works, what is simulated, and what still needs work.
